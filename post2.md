@@ -1,7 +1,7 @@
 ---
 title: Post 2
 summary: Summary 2
-date: 1970-01-02
+date: 1972-01-01
 ---
 
 **Content 2**
