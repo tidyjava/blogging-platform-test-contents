@@ -1,1 +1,0 @@
-# blogging-platform-test-contents
