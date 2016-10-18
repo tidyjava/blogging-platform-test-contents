@@ -1,4 +1,5 @@
 ---
+id: post1
 title: Post 1
 author: Author 1
 summary: Summary 1
